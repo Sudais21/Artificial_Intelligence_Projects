@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ArtificialIntelligence.iml" filepath="$PROJECT_DIR$/.idea/ArtificialIntelligence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python_Course/.idea/Python_Course.iml" filepath="$PROJECT_DIR$/../Python_Course/.idea/Python_Course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tkinter/.idea/Tkinter.iml" filepath="$PROJECT_DIR$/../Tkinter/.idea/Tkinter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../labMidTerm/.idea/labMidTerm.iml" filepath="$PROJECT_DIR$/../labMidTerm/.idea/labMidTerm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../statistics/.idea/statistics.iml" filepath="$PROJECT_DIR$/../statistics/.idea/statistics.iml" />
+    </modules>
+  </component>
+</project>
